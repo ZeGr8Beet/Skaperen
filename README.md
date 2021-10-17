@@ -1,2 +1,2 @@
 # Yubi
-Une bibliothèque de jeux-vidéos multiplate-forme.
+Une bibliothèque de jeux-vidéos multi-plateforme.
