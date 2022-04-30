@@ -1,6 +1,6 @@
 # Yubi
 
- Yubi est une plateforme disponible sur plusieurs supports tel que les smartphones et les ordinateurs. Yubi vous met à disposition :
+ Skaperen est une plateforme disponible sur plusieurs supports tel que les smartphones et les ordinateurs. Yubi vous met à disposition :
 
 • Une boutique et des annonces futures.
 
