@@ -1,4 +1,4 @@
-# Yubi
+# Skaperen
 
  Skaperen est une plateforme disponible sur plusieurs supports tel que les smartphones et les ordinateurs. Yubi vous met à disposition :
 
