@@ -8,6 +8,6 @@
 
 • Un support de services de streaming externes tel que Netflix, Disney+ ou Amazon Prime.
 
-• L'intégration de Gamepress, grâce à cette dernière, Yubi vous informe au quotidien des dernières nouvelles de la culture geek.
+• L'intégration de Gamepress, grâce à cette dernière, Skaperen vous informe au quotidien des dernières nouvelles de la culture geek.
 
 Une plateforme de la part d'E Searis.
